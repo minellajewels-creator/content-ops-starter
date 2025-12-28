@@ -331,7 +331,7 @@ sections:
       posts.
     actions:
       - label: Get started
-        url: /
+        url: https://wa.me/9080014835?text=Hello
         icon: arrowRight
         iconPosition: right
         style: secondary
