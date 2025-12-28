@@ -65,10 +65,11 @@ sections:
       - type: FeaturedItem
         title: AUTHENTIC
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          Curated specifically for the modern trendsetter. Minella Jewels brings
+          you affordable luxury that blends timeless elegance with modern
+          durability.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
