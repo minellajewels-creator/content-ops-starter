@@ -63,7 +63,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: AUTHENTIC
+        title: TREND
         subtitle: ''
         text: >
 
