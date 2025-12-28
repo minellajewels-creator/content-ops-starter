@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ANTI-TARNISH JEWELLERY
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Premium anti-tarnish jewelry designed for everyday wear. Swim, shower, and
+      sweat without losing the shine. Experience the Minella difference.
     actions:
       - label: Get started
         altText: ''
