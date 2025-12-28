@@ -330,7 +330,7 @@ sections:
       A service that helps businesses to manage their social media accounts and
       posts.
     actions:
-      - label: Get started
+      - label: WHATSAPP
         url: https://wa.me/9080014835?text=Hello
         icon: arrowRight
         iconPosition: right
