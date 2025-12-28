@@ -7,7 +7,7 @@ sections:
       text: Elevate Your Everyday
       color: text-dark
       type: TitleBlock
-    subtitle: Waterproof. Sweatproof. Minella Jewels.
+    subtitle: ANTI-TARNISH JEWELLERY
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
